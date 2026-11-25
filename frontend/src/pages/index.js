@@ -1,0 +1,12 @@
+export { LoginPage } from './LoginPage';
+export { RegisterPage } from './RegisterPage';
+export { ResetPasswordPage } from './ResetPasswordPage';
+export { DashboardPage } from './DashboardPage';
+export { HobbiesPage } from './HobbiesPage';
+export { SkillsPage } from './SkillsPage';
+export { GoalsPage } from './GoalsPage';
+export { SessionsPage } from './SessionsPage';
+export { MilestonesPage } from './MilestonesPage';
+export { CommunityPage } from './CommunityPage';
+export { ProfilePage } from './ProfilePage';
+export { SearchPage } from './SearchPage';
